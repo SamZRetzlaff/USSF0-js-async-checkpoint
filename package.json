@@ -1,0 +1,22 @@
+{
+  "name": "ussf0-js-async-checkpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamZRetzlaff/USSF0-js-async-checkpoint.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "getTypes": "./bin/index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/SamZRetzlaff/USSF0-js-async-checkpoint/issues"
+  },
+  "homepage": "https://github.com/SamZRetzlaff/USSF0-js-async-checkpoint#readme"
+}
