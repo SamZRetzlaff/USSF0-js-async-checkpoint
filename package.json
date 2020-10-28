@@ -13,10 +13,13 @@
   "author": "",
   "license": "ISC",
   "bin": {
-    "getTypes": "./bin/index.js"
+    "getTypes": "./bin/main.js"
   },
   "bugs": {
     "url": "https://github.com/SamZRetzlaff/USSF0-js-async-checkpoint/issues"
   },
-  "homepage": "https://github.com/SamZRetzlaff/USSF0-js-async-checkpoint#readme"
+  "homepage": "https://github.com/SamZRetzlaff/USSF0-js-async-checkpoint#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
 }
